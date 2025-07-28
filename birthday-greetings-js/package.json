@@ -1,0 +1,17 @@
+{
+  "name": "birthday-greetings-js",
+  "version": "1.0.0",
+  "description": "Birthday Greetings Kata in JavaScript",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "@jest/globals": "^29.7.0"
+  }
+}
